@@ -1,62 +1,14 @@
 {
-    "users": [
+    "books": [
       {
-        "id": 1,
-        "name": "jitendra",
-        "email": "sharmacs775@gmail.com",
-        "contact": "1238792"
-      },
-      {
-        "name": "akash bhoi",
-        "email": "bhoics775@gmail.com",
-        "contact": "198748792",
-        "id": 2
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 3
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 4
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 5
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 6
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 7
-      },
-      {
-        "name": "jitendra",
-        "email": "sharmacs8853@gmail.com",
-        "contact": "4564564",
-        "id": 8
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
