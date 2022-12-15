@@ -2,11 +2,11 @@
     "users": [
       {
         "id" :1,
-        "user_name":"jitendra@123",
-        "avatar_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "full_name":"jitendra sharma",
-        "email":"sharmacs8853@gmail.com",
-        "password":"12345"
+        "name":"jitendra sharma",
+        "age":23,
+        "gender":"male",
+        "country":"India",
+        "profession":"student"
       }
     ],
     "posts":[
