@@ -1,30 +1,123 @@
 {
-  "resume": [
+  "singer": [
     {
-      "id": 1,
-      "name": "jitendra sharma",
-      "job_profile": "Full-stack developer",
-      "email": "sharmacs8853@gmail.com",
-      "mobile": "7880500104",
-      "portfolio_url": "https://sharmacs8853.github.io/",
-      "image_url": "https://pbs.twimg.com/profile_images/1557787860711120897/QH3UUqVW_400x400.jpg",
-      "github_url": "https://github.com/Sharmacs8853",
-      "linkedin_url": "https://www.linkedin.com/in/jitendrasharma8853/",
-      "address": "Unnao India",
-      "education": [
-        {
-          "college": "Masai school",
-          "year_of_join": "2021",
-          "year_of_compleation": "2023",
-          "degree": "Full stack development course"
-        },
-        {
-          "college": "Govt Polytechnic Unnao",
-          "year_of_join": "2017",
-          "year_of_compleation": "2020",
-          "degree": "Diploma in CS"
-        }
-      ]
+      "profession": "singer",
+      "image": "https://starclinch.com/static/mobile/images/profile/book-anchor-online.webp",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "Selebrity",
+      "image": "https://bucketdata.blob.core.windows.net/s3data/starclinchwpimages/starclinch1/wp-content/uploads/2019/03/854c93c0-4ff8-434f-96b1-486b7bec9653.jpg",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "singer",
+      "image": "https://starclinch.com/static/mobile/images/profile/book-anchor-online.webp",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "Selebrity",
+      "image": "https://bucketdata.blob.core.windows.net/s3data/starclinchwpimages/starclinch1/wp-content/uploads/2019/03/854c93c0-4ff8-434f-96b1-486b7bec9653.jpg",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "singer",
+      "image": "https://starclinch.com/static/mobile/images/profile/book-anchor-online.webp",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "Selebrity",
+      "image": "https://bucketdata.blob.core.windows.net/s3data/starclinchwpimages/starclinch1/wp-content/uploads/2019/03/854c93c0-4ff8-434f-96b1-486b7bec9653.jpg",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "singer",
+      "image": "https://starclinch.com/static/mobile/images/profile/book-anchor-online.webp",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "Selebrity",
+      "image": "https://bucketdata.blob.core.windows.net/s3data/starclinchwpimages/starclinch1/wp-content/uploads/2019/03/854c93c0-4ff8-434f-96b1-486b7bec9653.jpg",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    }, {
+      "profession": "singer",
+      "image": "https://starclinch.com/static/mobile/images/profile/book-anchor-online.webp",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354624.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
+    },
+    {
+      "profession": "Selebrity",
+      "image": "https://bucketdata.blob.core.windows.net/s3data/starclinchwpimages/starclinch1/wp-content/uploads/2019/03/854c93c0-4ff8-434f-96b1-486b7bec9653.jpg",
+      "subimg": [
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg",
+        "https://wpcdn.starclinch.in/2019/03/93a32c49-8d88-4e94-a7ee-c4042a48df16.jpg",
+        "https://wpcdn.starclinch.in/2019/03/354637.jpg"
+      ],
+      "name": "Manish Paul",
+      "isSelected": false
     }
   ]
 }
